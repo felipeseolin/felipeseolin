@@ -10,7 +10,7 @@
 - 💡 &nbsp; Learning more about Artificial Intelligence, Software Architecture and Software Testing.
 - ✍️ &nbsp; I have skills and interest in graphic design.
 
-<h3>🛠 Some Tech Stack</h3>
+<h3> 🛠 Some Tech Stack </h3>
 
 - 💻 &nbsp; HTML | CSS | JavaScript | Typescript | Node.js | NestJS | Angular 
 - 🛢 &nbsp; PostgreSQL | Firebase | MySQL | MongoDB
@@ -18,6 +18,11 @@
 - 🖥 &nbsp; Illustrator| Photoshop | CorelDraw | Adobe XD
 
  [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipeseolin&show_icons=true)](https://github.com/felipeseolin)
+ 
+ <h3> 📊 Metrics </h3>
+ 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  
  <h3> 📞 Follow me at </h3>
  
