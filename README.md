@@ -16,10 +16,10 @@
 - 🛢 &nbsp; PostgreSQL | Firebase | MySQL | MongoDB
 - 🔧 &nbsp; Git | Markdown | Selenium | Jest | SuperTest
 - 🖥 &nbsp; Illustrator| Photoshop | CorelDraw | Adobe XD
-
- [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipeseolin&show_icons=true)](https://github.com/felipeseolin)
  
  <h3> 📊 Metrics </h3>
+ 
+ [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipeseolin&show_icons=true)](https://github.com/felipeseolin)
  
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
