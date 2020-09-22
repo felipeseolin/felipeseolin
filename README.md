@@ -21,6 +21,7 @@
  
  [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipeseolin&show_icons=true)](https://github.com/felipeseolin)
  
+ Weekly information:
 <!--START_SECTION:waka-->
 ```text
 TypeScript   15 hrs 38 mins  ████████████████▒░░░░░░░░   64.99 % 
@@ -30,6 +31,7 @@ Python       2 hrs 3 mins    ██░░░░░░░░░░░░░░░
 CSS          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 <!--END_SECTION:waka-->
+ 
  
  <h3> 📞 Follow me at </h3>
  
