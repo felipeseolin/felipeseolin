@@ -25,6 +25,6 @@
  [![github](https://img.icons8.com/ios-glyphs/48/000000/github.png)](https://github.com/felipeseolin) &nbsp;&nbsp;
  [![gitlab](https://img.icons8.com/color/48/000000/gitlab.png)](https://gitlab.com/seolin) &nbsp;&nbsp;
  [![devto](https://img.icons8.com/windows/48/000000/dev.png)](https://google.com) &nbsp;&nbsp;
- [![rocketseat](https://github.com/felipeseolin/felipeseolin/rocketseat-logo.png)](https://app.rocketseat.com.br/me/felipe-seolin-1566575285) &nbsp;&nbsp;
+ [![rocketseat](https://raw.githubusercontent.com/felipeseolin/felipeseolin/master/rocketseat-logo.png)](https://app.rocketseat.com.br/me/felipe-seolin-1566575285) &nbsp;&nbsp;
  [![gmail](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:seolinf@gmail.com) &nbsp;&nbsp;
  
