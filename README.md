@@ -1,4 +1,4 @@
-<h2 align="center">Olá, Hola, Hi! 👋<br/> </h2> 
+<h2 align="center">Olá! ¡Hola! Hi! 👋<br/> </h2> 
 
 
 <h3> 👨🏻‍💻 About Me </h3>
