@@ -41,4 +41,5 @@ JavaScript   3 hrs 29 mins   ██▒░░░░░░░░░░░░░░
   [![devto](https://img.icons8.com/windows/48/000000/dev.png)](https://dev.to/felipeseolin) &nbsp;&nbsp;
  [![rocketseat](https://raw.githubusercontent.com/felipeseolin/felipeseolin/master/rocketseat-logo.png)](https://app.rocketseat.com.br/me/felipe-seolin-1566575285) &nbsp;&nbsp;
  [![gmail](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:seolinf@gmail.com) &nbsp;&nbsp;
+ [![website](https://img.icons8.com/fluent/48/000000/domain.png)](https://felipeseolin.github.io) &nbsp;&nbsp;
  
