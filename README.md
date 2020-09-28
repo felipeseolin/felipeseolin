@@ -24,11 +24,11 @@
  Weekly information:
 <!--START_SECTION:waka-->
 ```text
-TypeScript   9 hrs 37 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.15 % 
-HTML         8 hrs 41 mins   ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-Python       6 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Java         3 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-JavaScript   3 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+JavaScript   9 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.42 % 
+TypeScript   9 hrs 37 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.33 % 
+HTML         8 hrs 40 mins   █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Python       6 hrs 31 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Sass         2 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 ```
 <!--END_SECTION:waka-->
  
