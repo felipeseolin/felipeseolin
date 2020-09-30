@@ -19,7 +19,8 @@
  
  <h3> 📊 Metrics </h3>
  
- [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipeseolin&show_icons=true)](https://github.com/felipeseolin)
+ [![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipeseolin&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues)](https://github.com/felipeseolin)
+ [![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeseolin&layout=compact)](https://github.com/felipeseolin)
  
  Weekly information:
 <!--START_SECTION:waka-->
