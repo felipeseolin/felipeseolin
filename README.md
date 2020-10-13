@@ -25,9 +25,10 @@
  Weekly information:
 <!--START_SECTION:waka-->
 ```text
-TypeScript   21 hrs 18 mins  █████████████████▒░░░░░░░   69.87 % 
-HTML         8 hrs 21 mins   ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-SCSS         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+TypeScript   20 hrs 27 mins  ██████████████████░░░░░░░   71.59 % 
+HTML         7 hrs 5 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.83 % 
+Java         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+SCSS         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 <!--END_SECTION:waka-->
  
