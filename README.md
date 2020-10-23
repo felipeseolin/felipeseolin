@@ -25,11 +25,11 @@
  Weekly information:
 <!--START_SECTION:waka-->
 ```text
-TypeScript   28 hrs 19 mins  ██████████████▓░░░░░░░░░░   58.03 % 
-SQL          9 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.50 % 
-Java         6 hrs 58 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-JSON         2 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Bash         1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+TypeScript   30 hrs 40 mins  ███████████████▓░░░░░░░░░   63.13 % 
+Java         7 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+SQL          5 hrs 44 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+JSON         2 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Bash         1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 ```
 <!--END_SECTION:waka-->
  
