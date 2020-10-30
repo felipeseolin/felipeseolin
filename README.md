@@ -22,17 +22,8 @@
  [![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipeseolin&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues)](https://github.com/felipeseolin)
  [![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeseolin&layout=compact)](https://github.com/felipeseolin)
  
- Weekly information:
-<!--START_SECTION:waka-->
-```text
-TypeScript   23 hrs 37 mins  ███████████████▓░░░░░░░░░   63.33 % 
-SQL          6 hrs 13 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.71 % 
-HTML         5 hrs 49 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-C#           1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-SCSS         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-```
-<!--END_SECTION:waka-->
- 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@FSB/4e53fc2d-6872-43d3-a1b8-cd0c6d6b32f3.png" width="400" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@FSB/b02e1a41-3a5f-4515-acda-86ed1b1fad41.png" width="400" /></a> 
  
  <h3> 📞 Follow me at </h3>
  
