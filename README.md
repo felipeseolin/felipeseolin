@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; My name is Felipe Seolin Bento and I'm brazilian 🇧🇷.
 - 🎓 &nbsp; Studying Software Engineering at [UTFPR](http://portal.utfpr.edu.br/english).
-- 💼 &nbsp; Working as Development Assistant/Full-stack Developer at [IBS](https://www.biosistemico.org.br/).
+- 💼 &nbsp; Working as Jr. Full Stack Engineer at [Trimble](https://www.trimble.com).
 - 💡 &nbsp; Learning more about Artificial Intelligence, Software Architecture and Software Testing.
 - ✍️ &nbsp; I have skills and interest in graphic design.
 
